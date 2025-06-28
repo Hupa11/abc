@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
+    "css-select": "latest",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
