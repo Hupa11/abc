@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
-    "css-select": "latest",
+    "cheerio": "^1.0.0-rc.12",
+    "css-select": "^5.1.0",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
@@ -37,7 +38,6 @@
     "ytdl-core": "latest",
     "wa-sticker-formatter": "latest",
     "translate-google-api": "latest",
-    "cheerio": "latest",
     "g-i-s": "latest",
     "seedr": "latest",
     "mfiredlcore-vihangayt": "latest",
